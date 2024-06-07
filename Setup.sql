@@ -61,7 +61,7 @@ INSERT INTO vehicles (vin, make, model, year, color) VALUES
 ('1HGCM82633A123456', 'Honda', 'Civic', 2022, 'Blue'),
 ('2HGCM82633A123457', 'Toyota', 'Corolla', 2021, 'Red'),
 ('3HGCM82633A123458', 'Ford', 'Mustang', 2020, 'Black'),
-('4HGCM82633A123459', 'Chevrolet', 'Camaro', 2019, 'Yellow'),
+('4HGCM82633A123459', 'Chevrolet', 'Camaro', 2019, 'Black'),
 ('5HGCM82633A123460', 'BMW', 'X5', 2023, 'White');
 
 INSERT INTO inventory (dealership_id, vin) VALUES
